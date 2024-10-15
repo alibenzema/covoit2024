@@ -1,0 +1,33 @@
+body{
+    background-color: grey ;
+    font-size: 20px;
+    font-family: arial;
+}
+form.leForm {
+    display: table;
+    
+}
+
+div.zoneDeSaisie {
+    display: table-row;
+}
+
+label, input {
+    display: table-cell;
+    margin-bottom: 10px;
+}
+
+label {
+    padding-right: 10px;
+}
+
+fieldset{
+    width: 30%;
+}
+
+input.btnValider{
+    margin-top: 20px;
+    margin-left: 15%;
+    font-size : 20px;
+}
+
